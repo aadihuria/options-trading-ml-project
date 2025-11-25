@@ -6,7 +6,7 @@ Implied Volatility (IV): taken from the price of an at-the-money option with ~30
 
 Predicted Realized Volatility (RV): forecasted from historical data using basic ML.
 
-##The idea:
+## The idea:
 
 * If IV > predicted RV, options may be overpriced → short volatility.
 
