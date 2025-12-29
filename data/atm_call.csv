@@ -1,0 +1,2 @@
+contractSymbol,lastTradeDate,strike,lastPrice,bid,ask,change,percentChange,volume,openInterest,impliedVolatility,inTheMoney,contractSize,currency,spot
+SPY260130C00579000,2025-12-26 17:25:41+00:00,579.0,113.25,109.21,112.44,0.0,0.0,1.0,0,0.47308876525878907,True,REGULAR,USD,579.2774047851562
